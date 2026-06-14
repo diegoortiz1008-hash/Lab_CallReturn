@@ -2,6 +2,7 @@ C:\Users\ACER\Documents\Repositorios ARSW\CallReturn\Lab_CallReturn\wellness-grp
 C:\Users\ACER\Documents\Repositorios ARSW\CallReturn\Lab_CallReturn\wellness-grpc\src\main\java\edu\eci\arsw\wellness\AppointmentServer.java
 C:\Users\ACER\Documents\Repositorios ARSW\CallReturn\Lab_CallReturn\wellness-grpc\src\main\java\edu\eci\arsw\wellness\MedicalServer.java
 C:\Users\ACER\Documents\Repositorios ARSW\CallReturn\Lab_CallReturn\wellness-grpc\src\main\java\edu\eci\arsw\wellness\WellnessClient.java
+C:\Users\ACER\Documents\Repositorios ARSW\CallReturn\Lab_CallReturn\wellness-grpc\src\main\java\edu\eci\arsw\wellness\WellnessGateway.java
 C:\Users\ACER\Documents\Repositorios ARSW\CallReturn\Lab_CallReturn\wellness-grpc\target\generated-sources\protobuf\grpc-java\edu\eci\arsw\wellness\AppointmentServiceGrpc.java
 C:\Users\ACER\Documents\Repositorios ARSW\CallReturn\Lab_CallReturn\wellness-grpc\target\generated-sources\protobuf\grpc-java\edu\eci\arsw\wellness\medical\MedicalServiceGrpc.java
 C:\Users\ACER\Documents\Repositorios ARSW\CallReturn\Lab_CallReturn\wellness-grpc\target\generated-sources\protobuf\java\edu\eci\arsw\wellness\Appointment.java

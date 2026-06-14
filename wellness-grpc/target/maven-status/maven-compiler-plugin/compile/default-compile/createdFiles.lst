@@ -76,6 +76,7 @@ edu\eci\arsw\wellness\medical\Empty$Builder.class
 edu\eci\arsw\wellness\WellnessClient.class
 edu\eci\arsw\wellness\medical\Specialty$Builder.class
 edu\eci\arsw\wellness\medical\MedicalServiceGrpc$MedicalServiceImplBase.class
+edu\eci\arsw\wellness\WellnessGateway.class
 edu\eci\arsw\wellness\AppointmentOrBuilder.class
 edu\eci\arsw\wellness\ServiceType.class
 edu\eci\arsw\wellness\medical\Specialty.class
